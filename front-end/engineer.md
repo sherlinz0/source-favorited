@@ -1,9 +1,9 @@
 <!--
  * @Author: sherlyzz
  * @Date: 2022-01-24
- * @LastEditTime: 2022-01-28 23:22:55
- * @LastEditors: Please set LastEditors
- * @Description: WEB 工程方向的收藏
+ * @LastEditTime: 2022-01-29
+ * @LastEditors: sherlyzz
+ * @Description: WEB 工程方向的资源
 -->
 
 - 前端性能优化
@@ -12,4 +12,8 @@
 
 - 开发工具
   
-  [Chrome DevTools 的使用](https://juejin.cn/post/6987752907579850765)
+  - [Chrome DevTools 的使用](https://juejin.cn/post/6987752907579850765)
+
+- 重构
+
+  - [杂谈代码整洁](https://mp.weixin.qq.com/s/s_2dfOnMqND1qKjTfnmg5A)
