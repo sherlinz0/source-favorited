@@ -17,3 +17,19 @@
 - 重构
 
   - [杂谈代码整洁](https://mp.weixin.qq.com/s/s_2dfOnMqND1qKjTfnmg5A)
+
+- Git
+
+  - [Sourcetree](https://www.sourcetreeapp.com/)
+
+  - JetBrains 家 IED 集成 Git
+
+  - [GitLens VSCode 插件](https://gitlens.amod.io)
+
+  - [TortoiseGit](https://tortoisegit.org)
+  
+  - [Fork](https://fork.dev/)
+
+  - [Sublime Merge](https://www.sublimemerge.com)
+
+  - [GitKraken](https://www.gitkraken.com)
