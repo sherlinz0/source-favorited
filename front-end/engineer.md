@@ -1,11 +1,3 @@
-<!--
- * @Author: sherlyzz
- * @Date: 2022-01-24
- * @LastEditTime: 2022-01-29
- * @LastEditors: sherlyzz
- * @Description: WEB 工程方向的资源
--->
-
 #### 前端性能优化
   
 - [掘金小册](https://juejin.cn/book/6844733750048210957)
