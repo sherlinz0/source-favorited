@@ -46,6 +46,7 @@
 - [Sublime Merge](https://www.sublimemerge.com)
 - [GitKraken](https://www.gitkraken.com)
 
-#### 科学上网
+#### 网络
 
-- [V2Fly](https://www.v2fly.org/)
+- [V2Fly](https://www.v2fly.org/) 科学上网
+- [ohttps](https://ohttps.com/) 免费 https, 自动更新
