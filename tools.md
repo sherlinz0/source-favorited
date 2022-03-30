@@ -4,6 +4,8 @@
 - [字由](https://www.hellofont.cn/home) - 字体仓库
 - [ByteDance IconPark](https://iconpark.oceanengine.com/home) - 字节图标库
 - [Emojipedia](https://emojipedia.org/) - 表情
+- [Favicon.ico 图标在线生成器](https://www.logosc.cn/logo/favicon?s=) Favicon 图标生成器
+- [shields.io](https://shields.io/) 标签图标生成器
 
 ##### 原型设计
 
